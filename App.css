@@ -1,0 +1,40 @@
+*{
+    box-sizing:border-box;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+  
+
+}
+div {
+    margin: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    line-height: 1.4;
+    text-decoration: none;
+}
+
+#a {
+    color: #ffffff;
+    background: border-box;
+    background-color: gray;
+    text-decoration: none;
+    width: 300px;
+    height: 100px;
+    
+}
+#b {
+    color: #ffffff;
+    background: border-box;
+    background-color: gray;
+    text-decoration: none;
+    width: 300px;
+    height: 100px;
+}
+#c {
+    color: #ffffff;
+    background: border-box;
+    background-color: gray;
+    text-decoration: none;
+    width: 300px;
+    height: 100px;
+}
